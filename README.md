@@ -4,11 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/Agrim-Sigdel?tab=repositories">
-    <img src="https://img.shields.io/github/repos/Agrim-Sigdel?style=flat-square&color=4CAF50" alt="Repositories">
+    <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/31a85e5c-78d8-4220-b453-59c8099a9bb1"
+ alt="Repositories"/>
   </a>
-  <a href="https://github.com/Agrim-Sigdel">
-    <img src="https://img.shields.io/github/followers/Agrim-Sigdel?style=flat-square&color=blue" alt="Followers">
-  </a>
+ 
 </p>
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
@@ -21,4 +20,4 @@
 - 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗...
 ```yaml
 - Building projects with Spring Boot and Java.
-- Exploring new concepts in web development with JavaScript and PHP.
+- Exploring new concepts in machine learning with CNN and DETRs.
