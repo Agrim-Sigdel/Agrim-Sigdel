@@ -22,5 +22,5 @@
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 ```yaml
-- Building projects with Spring Boot and Java
-- Exploring new concepts in machine learning with CNN and DETRs
+- FullStack Internship at Kingsoft
+- Exploring django 
