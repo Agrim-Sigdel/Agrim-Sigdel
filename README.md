@@ -22,5 +22,5 @@
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 ```yaml
-- FullStack Internship at Kingsoft
-- Exploring django 
+- FullStack Developer at Kingsoft Tech
+- Exploring django and different CMS
