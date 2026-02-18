@@ -1,8 +1,8 @@
 <div align="center">
   <img
     src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejVybDhtcmk3OTlkdTVncDF1MTVlZTl0azJqaWppeGF2OG94cG9laSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BvlovyAZEXguXr9UGA/giphy.gif"
-    alt="👋 Hi there! I'm Agrim Sigdel"
-    title="👋 Hi there! I'm Agrim Sigdel"
+    alt=" Hi there! I'm Agrim Sigdel"
+    title=" Hi there! I'm Agrim Sigdel"
     width="300"
   />
 
@@ -21,7 +21,7 @@
 -  𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎: 𝙸'𝚖 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚝𝚑𝚛𝚘𝚞𝚐𝚑 𝚝𝚑𝚎 𝚎𝚖𝚊𝚒𝚕 𝚘𝚗 𝚖𝚢 𝙶𝚒𝚝𝙷𝚞𝚋 𝚙𝚛𝚘𝚏𝚒𝚕𝚎.
 
 
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
+##  𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 ```yaml
 - Exploring django 
 - Building a Full Stack software
