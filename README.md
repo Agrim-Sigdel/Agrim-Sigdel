@@ -23,6 +23,6 @@
 
 ##  𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 ```yaml
-- Exploring django 
-- Building a Full Stack software
+- Full Stack Developer
+- Building a Web/Mobile App
 
