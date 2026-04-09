@@ -6,9 +6,6 @@
     width="300"
   />
 
-  <h3>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=4AF626&center=true&vCenter=true&width=500&lines=Software+Developer;ML+%7C+AI+Enthusiast;Open-Source+Contributor;Always+Learning+%26+Building!" />
-  </h3>
 </div>
 
 ---
