@@ -36,19 +36,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 </p>
-
----
-
-### ACTIVITY & STREAK
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Agrim-Sigdel&theme=dark&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZsdTh4Z25xZnU4aXJhZnBjcXNiaXB2Mm9qZDBybHowdnB3eHl0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvyyBgyqv/giphy.gif" alt="Developer GIF" width="85%" />
-</p>
-
 ---
 
 ### FEATURED PROJECTS & RESEARCH
