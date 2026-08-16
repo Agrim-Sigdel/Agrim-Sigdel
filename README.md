@@ -14,7 +14,7 @@
 
 ### ABOUT
 
-- **Current Roles:** Software Developer (Full-Stack) at Contractor Ops AI & Full-Stack Developer at Kingsoft Tech.
+- **Current Roles:** Software Developer (Full-Stack) at Contractor Ops AI.
 - **Specializations:** Production-ready React/TypeScript interfaces, React Native applications, scalable Python/Django REST APIs, and automated CI/CD deployments.
 - **AI & Computer Vision:** Lead researcher for Cascaded AI Task Decomposition (CATD) frameworks, YOLOv8/v11, RT-DETR, and NLP/BERT pipelines.
 - **Open Source Creator:** Creator and maintainer of **easy-3dkit** (3D component library for React powered by Three.js & R3F).
