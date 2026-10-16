@@ -33,5 +33,5 @@
 ### CONTACT
 
 - **Website:** [agrimsigdel.com.np](https://agrimsigdel.com.np)
-- **Email:** [sigdelagrim35@gmail.com](mailto:sigdelagrim35@gmail.com)
+- **Email:** [contact@agrimsigdel.com.np](mailto:contact@agrimsigdel.com.np)
 - **Location:** Kathmandu, Nepal (UTC +05:45)
